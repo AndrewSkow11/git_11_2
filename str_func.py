@@ -8,5 +8,4 @@ def capital_strin(str):
     """Капитализация принятой строки"""
     return str.capitalize()
 
-
-print(capital_strin("little lettrs"))
+print(capital_strin("middle lettrs"))
